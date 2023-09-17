@@ -1,5 +1,5 @@
-git clone https://github.com/ThPYasuo/Yasuo-DdoS-Mini.git
-cd Yasuo-DdoS-Mini
+git clone https://github.com/ThPYasuo/ZCODED-DDOS.git
+cd ZCODED-DDOS
 sh install.sh
 python3 ZCODED.py
 
